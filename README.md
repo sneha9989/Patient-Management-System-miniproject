@@ -1,4 +1,4 @@
-Patient Management System
+
 Patient Management System using MySQL, Php and Bootstrap
 
 
