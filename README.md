@@ -1,5 +1,5 @@
-# Hospital Management System
-Hospital Management System using MySQL, Php and Bootstrap
+#Patient Management System
+Patient Management System using MySQL, Php and Bootstrap
 
 
 ## Need to work on:
